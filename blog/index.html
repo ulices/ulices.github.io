@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Ulices Barajas Code Note
+title: Ulices Anibal's Blog
 ---
 <div class="blurb">
-  <h1>Posts</h1>
-  <ul>
+  <h1>{{ page.title }}</h1>
+  <ul class="posts">
     {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}"> {{ post.title}}</a>
