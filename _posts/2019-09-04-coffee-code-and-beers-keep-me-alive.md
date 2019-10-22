@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Coffee, code and beers keep me alive."
+date: 2019-09-04
 ---
 
 - First thing coffee.
